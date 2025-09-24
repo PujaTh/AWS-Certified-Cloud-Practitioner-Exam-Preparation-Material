@@ -5,6 +5,7 @@ comprehensive set of Multiple Choice Questions (MCQs) along with their solutions
 
 # Contents
 **•	350+ MCQs:** This repository includes a diverse set of over 350+ multiple-choice questions covering various aspects of the AWS CLF-C01 exam.
+
 **•	Detailed Solutions:** Each question is accompanied by a detailed solution, providing explanations and insights to help you understand the concepts thoroughly.
 
 # Important Considerations
